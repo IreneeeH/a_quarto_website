@@ -3,12 +3,13 @@ project:
   output-dir: docs
   
 website:
-  title: "a_quarto_website"
+  title: "Irene Huynh"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - contact.qmd
 
 format:
   html:

@@ -1,11 +1,5 @@
 ---
-title: "a_quarto_website"
+title: "Home"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-
-```
+Welcome! This is my personal website. Feel free to navigate to the About or Contact section to learn more about me!
