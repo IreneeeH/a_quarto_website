@@ -2,22 +2,22 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site\nWelcome to my personal website!"
+    "text": "Quick Bio\nI’m a third year computer science student at the University of Toronto. Besides computer science, I’m interested in learning more about linguistics and astronomy. Outside of school, I enjoy bike riding, reading, and watching movies.\nCV\nFeel free to take a look at my CV:"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "Welcome",
     "section": "",
-    "text": "Welcome! This is my personal website. Feel free to navigate to the About or Contact section to learn more about me!"
+    "text": "Hi! This is my personal website. Feel free to navigate to the About Me or Contact tab :)"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Feel free to contact me here: irene.huynh@mail.utoronto.ca"
+    "text": "Don’t hesitate to shoot me an email at: irene.huynh@mail.utoronto.ca"
   }
 ]

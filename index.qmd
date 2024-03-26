@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Welcome"
 ---
 
-Welcome! This is my personal website. Feel free to navigate to the About or Contact section to learn more about me!
+Hi! This is my personal website. Feel free to navigate to the About Me or Contact tab :)
